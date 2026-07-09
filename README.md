@@ -1,6 +1,6 @@
 # Nix Rust Devshell Template
 
-> Quickly star a Rust dev shell with Nix.
+> Quick to start a Rust dev shell with Nix.
 
 ## Usage
 
